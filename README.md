@@ -1,5 +1,5 @@
 # Tetris
-Tetris with Pygame
+Using Pygame
 
 ![tetris](/screenshot/0.jpg)
 "# Tetris" 
